@@ -1,9 +1,9 @@
 [submodule "cexample"]
 	path = cexample
-	url = https://github.com/ffashion/cexample
+	url = git@github.com:ffashion/cexample.git
 [submodule "luaexample"]
 	path = luaexample
-	url = https://github.com/ffashion/luaexample
+	url = git@github.com:ffashion/luaexample
 [submodule "cppexample"]
 	path = cppexample
 	url = git@github.com:ffashion/cppexample.git
