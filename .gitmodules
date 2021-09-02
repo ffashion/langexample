@@ -4,3 +4,6 @@
 [submodule "luaexample"]
 	path = luaexample
 	url = https://github.com/ffashion/luaexample
+[submodule "cppexample"]
+	path = cppexample
+	url = git@github.com:ffashion/cppexample.git
