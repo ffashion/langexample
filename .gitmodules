@@ -1,0 +1,3 @@
+[submodule "cexample"]
+	path = cexample
+	url = https://github.com/ffashion/cexample
