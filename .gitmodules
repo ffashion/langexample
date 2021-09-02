@@ -1,3 +1,6 @@
 [submodule "cexample"]
 	path = cexample
 	url = https://github.com/ffashion/cexample
+[submodule "luaexample"]
+	path = luaexample
+	url = https://github.com/ffashion/luaexample
